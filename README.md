@@ -11,13 +11,13 @@ India. We will support the below languages.
 6. Marathi
 7. Bengali
 
-(Note: This list will expand based on popular demand and feasibility)
+(Note: This list may expand based on popular demand and feasibility)
 
 # About PSchool
 
 [www.pschool.in](https://pschool.in) is a learning app for kids. It has
 thousands of learning activities. Presently we have content from kg to 5th
-standard. In future, we will add content till 12th. We kept lot of activities as
+standard. In future, we will add content till 12th. We keep lot of activities as
 free, and by paying Rs 500/- (per year) the user can unlock more content.
 Presently we are focusing more on Math and English.
 
@@ -27,9 +27,9 @@ more languages and add more activities for the exisiting languages. But due to
 resource constraints and unfamiliarity with different languages, our team cannot
 do it independently.
 
-So we decided to keep this project (pschool-lang) as an open source project. The
-goal is to develop a separate app for each language. We request volunteers to
-help us to complete this project.
+So we decided to keep this project (language-apps) as an open source project.
+The goal is to develop a separate app for each language. We request volunteers
+to help us to complete this project.
 
 # Scope
 
@@ -58,8 +58,8 @@ help us to complete this project.
 
 # How it works?
 
-Step 1: The subject expert will prepare the content in google doc or or directly
-in github. The content should fit into any of the 18 available templates.
+Step 1: The subject expert will prepare the content in google doc or directly in
+github. The content should fit into any of the 18 available templates.
 
 Step 2: Our technical person will convert the content into template format
 (json), and publish as app
@@ -82,7 +82,7 @@ the scope of this project.
 
 ## Input component
 
-We need to develop an input component for each languages, so that the user can
+We need to develop an input component for each language, so that the user can
 key in any possible character present in the language.
 
 ## Words to Chars
