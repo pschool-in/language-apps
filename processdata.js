@@ -1,10 +1,10 @@
 import tamil from "./js/tamil/index.js";
-//const tamil = require("./tamil/index");
+import english from "./js/english/index.js";
 import fs from "fs";
 //const fs = require("fs");
 
 function process() {
-  fs.writeFileSync("./js/tamil/data.json", JSON.stringify(tamil));
+  fs.writeFileSync("./js/english/data.json", JSON.stringify(english));
 }
 
 process();
